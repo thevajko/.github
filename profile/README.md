@@ -1,4 +1,4 @@
-# Hlavne odkazy
+# Hlavné odkazy
 * [Zbierka úloh](https://github.com/thevajko/zbierka-uloh)
 * [Vaiiko MVC framework](https://github.com/thevajko/vaiicko)
 * [Vaiiko Docker image](https://github.com/thevajko/vaii-web-server)
