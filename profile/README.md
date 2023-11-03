@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-<!--
+# Hlavne odkazy
+* [Zbierka úloh](https://github.com/thevajko/zbierka-uloh)
+* [Vaiiko MVC framework](https://github.com/thevajko/vaiicko)
+* [Vaiiko Docker image](https://github.com/thevajko/vaii-web-server)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Cvičenia
+* [Cvičenie 01](https://github.com/thevajko/cv-01)
+* [Cvičenie 02](https://github.com/thevajko/cv-02)
+* [Cvičenie 03](https://github.com/thevajko/cv-03)
+* [Cvičenie 04](https://github.com/thevajko/cv-04)
+* [Cvičenie 05](https://github.com/thevajko/cv-05)
+* [Cvičenie 06](https://github.com/thevajko/cv-06)
+* [Cvičenie 07](https://github.com/thevajko/cv-07)
+* [Cvičenie 08](https://github.com/thevajko/cv-08)
+* [Cvičenie 09](https://github.com/thevajko/cv-09)
+* [Cvičenie 10](https://github.com/thevajko/cv-10)
