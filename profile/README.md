@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hlavne odkazy
 * [Zbierka úloh](https://github.com/thevajko/zbierka-uloh)
 * [Vaiiko MVC framework](https://github.com/thevajko/vaiicko)
