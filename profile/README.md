@@ -12,5 +12,5 @@
 * [Cvičenie 06 - MVC framework Vaííčko, príklad Príspevky s fotografiami](https://github.com/thevajko/cv-06)
 * [Cvičenie 07 - MVC framework Vaííčko, príklad Príspevky s fotografiami, lajkovanie, prihlasovanie](https://github.com/thevajko/cv-07)
 * [Cvičenie 08 - JavaScript, príklad Pexeso](https://github.com/thevajko/cv-08)
-* [Cvičenie 09 - Tvorba webového API, príklad API pre chat](https://github.com/thevajko/cv-09)
+* [Cvičenie 09 - Tvorba webového API, príklad Webové API pre čet](https://github.com/thevajko/cv-09)
 * [Cvičenie 10 - AJAX, príklad Čet](https://github.com/thevajko/cv-10)
