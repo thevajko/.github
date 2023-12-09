@@ -16,4 +16,5 @@
 * [Cvičenie 10 - AJAX, príklad Čet](https://github.com/thevajko/cv-10)
 
 # Doplňujúce matériály
+* [Aplikácia s bezpečnostnými problémami - Prednáška VAII 10](https://github.com/thevajko/security_problems)
 * [Laravel tutoriál - Projekt na správu používateľov (CRUD operácie)](https://github.com/thevajko/laravel_tutorial)
