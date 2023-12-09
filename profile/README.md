@@ -15,6 +15,6 @@
 * [Cvičenie 09 - Tvorba webového API, príklad Webové API pre čet](https://github.com/thevajko/cv-09)
 * [Cvičenie 10 - AJAX, príklad Čet](https://github.com/thevajko/cv-10)
 
-# Doplňujúce matériály
+# Doplňujúce materiály
 * [Aplikácia s bezpečnostnými problémami - Prednáška VAII 10](https://github.com/thevajko/security_problems)
 * [Laravel tutoriál - Projekt na správu používateľov (CRUD operácie)](https://github.com/thevajko/laravel_tutorial)
