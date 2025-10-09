@@ -6,7 +6,7 @@
 # Cvičenia
 * [Cvičenie 01 - HTML, validácia dokumentov](https://github.com/thevajko/cv-01)
 * [Cvičenie 02 - CSS, príklady Obloha a Selektory](https://github.com/thevajko/cv-02)
-* [Cvičenie 03 - Responzívny dizajn, príklad Redizajn e-shopu](https://github.com/thevajko/cv-03)
+* [Cvičenie 03 - Responzívny dizajn](https://github.com/thevajko/cv-03)
 * [Cvičenie 04 - PHP (základy jazyka), príklad Osoby](https://github.com/thevajko/cv-04)
 * [Cvičenie 05 - MVC framework Vaííčko, príklad Osoby](https://github.com/thevajko/cv-05)
 * [Cvičenie 06 - MVC framework Vaííčko, príklad Príspevky s fotografiami](https://github.com/thevajko/cv-06)
