@@ -2,6 +2,7 @@
 * [Zbierka úloh](https://github.com/thevajko/zbierka-uloh)
 * [Vaiiko MVC framework](https://github.com/thevajko/vaiicko)
 * [Vaiiko Docker image](https://github.com/thevajko/vaii-web-server)
+* [Vyberač otázok na ústnu](https://thevajko.github.io/ustna/)
 
 # Cvičenia
 * [Cvičenie 01 - HTML, validácia dokumentov](https://github.com/thevajko/cv-01)
@@ -18,3 +19,4 @@
 # Doplňujúce materiály
 * [Aplikácia s bezpečnostnými problémami - Prednáška VAII 10](https://github.com/thevajko/security_problems)
 * [Laravel tutoriál - Projekt na správu používateľov (CRUD operácie)](https://github.com/thevajko/laravel_tutorial)
+
